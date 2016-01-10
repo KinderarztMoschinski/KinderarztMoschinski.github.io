@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über uns
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Öffnungszeiten
+| Tag | Öffnungszeit |
+| ------------- | ------------- |
+| Montag | 7 - 12 |
+| Dienstag | 7 - 12 und 14 - 18 |
+| Mittwoch | 7 - 12 |
+| Donnerstag | 7 - 12 und 14 - 18 |
+| Freitag | 7 - 12 |
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Kontakt
+### Adresse
+```
+Braunsdorfer Straße 13
+01159 Dresden
+```
+### Telefon
+```
+(0351) 421 64 75
+```
