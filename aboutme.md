@@ -11,6 +11,7 @@ title: Über uns
 | Mittwoch | 7 - 12 |
 | Donnerstag | 7 - 12 und 14 - 18 |
 | Freitag | 7 - 12 |
+{: class="table"}
 
 ## Kontakt
 ### Adresse
