@@ -14,7 +14,9 @@ layout: page
 
 ## Kontakt
 
-### Adresse
+### Anschrift
+Dipl.-Med. G. Moschinski
+<br/>
 Braunsdorfer Straße 13
 <br/>
 01159 Dresden
