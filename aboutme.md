@@ -3,7 +3,7 @@ layout: page
 title: Über uns
 ---
 
-## Öffnungszeiten
+# Öffnungszeiten
 
 | Tag | Öffnungszeit |
 | ------------- | ------------- |
@@ -13,5 +13,13 @@ title: Über uns
 | Donnerstag   | 7 - 12 und 14 - 18 |
 | Freitag   | 7 - 12 |
 
-## Kontakt
-### Adresse
+# Kontakt
+## Adresse
+```
+Braunsdorfer Straße 13
+01159 Dresden
+```
+## Telefon
+```
+(0351) 421 64 75
+```
