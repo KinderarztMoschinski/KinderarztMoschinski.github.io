@@ -9,7 +9,7 @@ layout: page
 | Montag  | 7 - 12 |
 | Dienstag   | 7 - 12 und 14 - 18 |
 | Mittwoch   | 7 - 12 |
-| Donnerstag     | 7 - 12 und 14 - 18 |
+| Donnerstag&nbsp;&nbsp;| 7 - 12 und 14 - 18 |
 | Freitag   | 7 - 12 |
 
 # Kontakt
@@ -18,7 +18,6 @@ layout: page
 
 ```
 Braunsdorfer Straße 13
-
 01159 Dresden
 ```
 
