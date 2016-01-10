@@ -7,9 +7,9 @@ title: Über uns
 
 | Tag | Öffnungszeit |
 | ------------- | ------------- |
-| Montag | 7 - 12 |
-| Dienstag | 7 - 12 und 14 - 18 |
-| Mittwoch | 7 - 12 |
-| Donnerstag | 7 - 12 und 14 - 18 |
-| Freitag | 7 - 12 |
+| Montag  | 7 - 12 |
+| Dienstag   | 7 - 12 und 14 - 18 |
+| Mittwoch   | 7 - 12 |
+| Donnerstag   | 7 - 12 und 14 - 18 |
+| Freitag   | 7 - 12 |
 
