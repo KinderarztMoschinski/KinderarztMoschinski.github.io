@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Praxis vorübergehend geschlossen
+title: Veränderte Öffnungszeiten
 ---
 
 Liebe Patienten,
