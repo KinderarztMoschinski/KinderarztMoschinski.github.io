@@ -67,7 +67,7 @@ disqus: "kinderarztmoschinski"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Berlin"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 5
 
