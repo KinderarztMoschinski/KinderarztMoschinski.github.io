@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Praxis vorübergehend geschlossen
+title: Urlaub (19.02. bis 24.02.)
 ---
 
 Liebe Patienten,
