@@ -3,9 +3,6 @@ layout: page
 ---
 
 ## Öffnungszeiten
-<br/>
-<b style='color:red'>Achtung:</b> bis auf Weiteres ist die Praxis täglich nur von 8 bis 11 Uhr geöffnet
-<br/>
 
 | Tag | Öffnungszeit |
 | ------------- | ------------- |
