@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Praxis kommende Woche geschlossen
+title: Praxis am 23. und 24. Januar geschlossen
 ---
 
 Liebe Patienten,
