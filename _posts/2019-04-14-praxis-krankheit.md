@@ -17,3 +17,5 @@ Alle Praxen bitten um telefonische Voranmeldung!
 Liebe Grüße,
 <p/>
 das Praxisteam
+
+P.S.: Bitte besuchen Sie auch unsere [Facebook-Seite KinderarztMoschinski](https://www.facebook.com/KinderarztMoschinski/)!
