@@ -12,7 +12,7 @@ aufgrund von Krankheit bleibt die Praxis bis Ende April geschlossen. Die Vertret
 * Dr. Kimmenau, Liebigstraße 24, Tel.: 4726494 (nur vormittags 8-11 Uhr)
 * Dr. Speckmann, Heinrich-Mann-Str. 2, Tel.: 45252919 (nur bis zum 18.04.)
 
-Alles Praxen bitten um telefonische Voranmeldung!
+Alle Praxen bitten um telefonische Voranmeldung!
 
 Liebe Grüße,
 <p/>
