@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Praxisurlaub vom 29. Juli bis zum 
+title: Praxisurlaub vom 29. Juli bis zum 16. August
 ---
 
 Liebe Patienten,
