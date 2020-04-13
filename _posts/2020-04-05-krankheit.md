@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (AKTUALISIERT) Praxis bis zum 17. April geschloßen
+title: (AKTUALISIERT) Praxis bis zum 17. April geschlossen
 ---
 
 Liebe Patienten,
